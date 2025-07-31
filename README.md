@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Future Full-Stack Developer | AI/ML Enthusiast | CSE Undergrad</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/IbL7TV4Uu3kAAAAd/hacker-hacking.gif" width="350" alt="Epic Coding Hacker Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZyN2lpNmhmZHR4dGN1YmZ4aXpnNGIyZmQ2cjM2cHo1NGVoc3dkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"/>
 </p>
 
 ---
@@ -21,10 +21,8 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, C++, JavaScript, HTML, CSS  
-**Frameworks & Tools:** React.js, Node.js, Flask, TailwindCSS, Express.js  
-**Databases:** MongoDB, Firebase, MySQL  
-**Tools:** Git & GitHub, VS Code, Postman  
+**Languages:** Python, C.   
+**Tools:** Git & GitHub, VS Code. 
 **Domains:** Full Stack Web, AI/ML, Arduino, Automation
 
 ---
@@ -38,8 +36,6 @@ A command-line calculator that supports history, persistent storage, and basic a
 Creates random (funny/fake) headlines using custom text pools.  
 Features TTS integration using `pyttsx3`.
 
-#### 💡 Arduino Experiments  
-Tinkering with basic circuits, LED patterns, and sensors — because blinking lights = joy.
 
 ---
 
@@ -53,9 +49,7 @@ Tinkering with basic circuits, LED patterns, and sensors — because blinking li
 ### 📫 Let’s Connect!
 
 - 🔗 [GitHub](https://github.com/Nevid-786)
-- 📧 Email: **nvd.singh786@gmail.com** *(or your preferred one)*
+- 📧 Email: **mdnabid786@gmail.com** 
 - 🌐 Portfolio: *Coming Soon...*
 
----
 
-*“Keep building. Every bug fixed is a step closer to mastery.”*
