@@ -1,5 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Nevid</h1>
-<h3 align="center">🚀 Future Full-Stack Developer | AI/ML Enthusiast | CSE Undergrad</h3>
+<h1 align="center">Welcome to My GitHub </h1>
+<h3 align="center">CSE Undergrad | Building Skills in Full-Stack Development, AI/ML, and IoT</h3>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZyN2lpNmhmZHR4dGN1YmZ4aXpnNGIyZmQ2cjM2cHo1NGVoc3dkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"/>
@@ -21,35 +22,75 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, C.   
-**Tools:** Git & GitHub, VS Code. 
-**Domains:** Full Stack Web, AI/ML, Arduino, Automation
+
+**Languages:**  
+`Python` • `C` • `Java` • `JavaScript`  
+
+**Web:**  
+`HTML` • `CSS` • `Frontend Development`  
+
+**Domains:**  
+`Artificial Intelligence` • `Machine Learning` • `IoT` • `Automation`  
+
+**Tools:**  
+`Git` • `GitHub` • `VS Code` 
 
 ---
 
 ### 🚀 Notable Projects
 
-#### 📦 Simple CLI Calculator  
-A command-line calculator that supports history, persistent storage, and basic arithmetic.
 
-#### 📰 Fake Headline Generator  
-Creates random (funny/fake) headlines using custom text pools.  
-Features TTS integration using `pyttsx3`.
+- 🛒 [**Amazone_clone**](https://github.com/Nevid-786/Amazone_clone) – Amazon-inspired e-commerce website.  
+- 🌐 [**IOT_Internet-of-things**](https://github.com/Nevid-786/IOT_Internet-of-things) – IoT automation & sensor projects with Arduino.  
+- 🌱 [**Crop_yield_ML_internship_Project**](https://github.com/Nevid-786/Crop_yield_ML_internship_Project) – ML model predicting crop yields.  
+- 📑 [**Usability-Web-Clone**](https://github.com/Nevid-786/Usability-Web-Clone) – Responsive website focused on UI/UX.  
+- 🧩 [**DSA-C-**](https://github.com/Nevid-786/DSA-C-) – Data Structures & Algorithms in C.  
+- 🎨 [**Frontend**](https://github.com/Nevid-786/Frontend) – Frontend projects using HTML & CSS.  
+- 🌿 [**Nature_Layot_using_CSS_Grid**](https://github.com/Nevid-786/Nature_Layot_using_CSS_Grid) – Creative layout design with CSS Grid.  
+- 🐍 [**Python_Projects**](https://github.com/Nevid-786/Python_Projects) – Python projects for real-world problems.  
 
 
 ---
 
 ### 🔄 Current Goals
-- ✅ Complete full-stack roadmap (React, Node, DBs, Hosting)  
-- ✅ Master TailwindCSS and build aesthetic UIs  
-- ⏳ Start machine learning journey (soon after full-stack)
+- Strengthening **Java & JavaScript** foundations  
+- Building **full-stack web applications**  
+- Diving deeper into **AI/ML with Python**  
+- Exploring **IoT automation** with Arduino ck)
+
+---
+
+## Profile Statics.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nevid-786&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Nevid-786&theme=tokyonight" height="165" />
+
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevid-786&layout=compact&theme=tokyonight" height="140"/>
+</p>
 
 ---
 
 ### 📫 Let’s Connect!
 
-- 🔗 [GitHub](https://github.com/Nevid-786)
-- 📧 Email: **mdnabid786@gmail.com** 
-- 🌐 Portfolio: *Coming Soon...*
+--- 
+
+<p align="center">
+  <a href="https://github.com/Nevid-786">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mdnabi786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 
