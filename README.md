@@ -37,9 +37,7 @@
 
 ---
 
-```json
-{
-  "data": "### 🚀 Notable Projects
+### 🚀 Notable Projects
 
 | Project | Description |
 |---|---|
@@ -54,9 +52,7 @@
 | 🐍 [**Python_Projects**](https://github.com/Nevid-786/Python_Projects) | Python projects for real-world problems. |
 | 💡 [**ESP-32**](https://github.com/Nevid-786/ESP-32) | Projects and code for ESP32 microcontroller development. |
 
----"
-}
-```
+---
 
 ### 🔄 Current Goals
 - Strengthening **Java & JavaScript** foundations  
