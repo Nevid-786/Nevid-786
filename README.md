@@ -37,7 +37,9 @@
 
 ---
 
-### 🚀 Notable Projects
+```json
+{
+  "data": "### 🚀 Notable Projects
 
 | Project | Description |
 |---|---|
@@ -50,8 +52,11 @@
 | 🎨 [**Frontend**](https://github.com/Nevid-786/Frontend) | Frontend projects using HTML & CSS. |
 | 🌿 [**Nature_Layot_using_CSS_Grid**](https://github.com/Nevid-786/Nature_Layot_using_CSS_Grid) | Creative layout design with CSS Grid. |
 | 🐍 [**Python_Projects**](https://github.com/Nevid-786/Python_Projects) | Python projects for real-world problems. |
+| 💡 [**ESP-32**](https://github.com/Nevid-786/ESP-32) | Projects and code for ESP32 microcontroller development. |
 
----
+---"
+}
+```
 
 ### 🔄 Current Goals
 - Strengthening **Java & JavaScript** foundations  
