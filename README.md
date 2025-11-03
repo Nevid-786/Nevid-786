@@ -51,6 +51,7 @@
 | 🌿 [**Nature_Layot_using_CSS_Grid**](https://github.com/Nevid-786/Nature_Layot_using_CSS_Grid) | Creative layout design with CSS Grid. |
 | 🐍 [**Python_Projects**](https://github.com/Nevid-786/Python_Projects) | Python projects for real-world problems. |
 | 💡 [**ESP-32**](https://github.com/Nevid-786/ESP-32) | Projects and code for ESP32 microcontroller development. |
+| 💻 [**JavaScript**](https://github.com/Nevid-786/JavaScript) | Diverse projects exploring JavaScript fundamentals and advanced concepts. |
 
 ---
 
